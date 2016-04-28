@@ -1,2 +1,2 @@
 # geomaps
-tools and programs to edit geomaps and underlying files (geojson, esri,...)
+This repository contains programs that I wrote to customize geomaps or the underlying files like geojson, shapefiles etc.
